@@ -1,1 +1,3 @@
-# make-api-by-NestJS
+ 설명: 
+	우버 클론코딩 작업 전 사전 공부
+	NESTJS를 사용해보기
